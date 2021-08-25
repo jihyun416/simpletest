@@ -13,4 +13,5 @@ public class OrderDTO {
     String customerLastName;
     String billingCity;
     String billingStreet;
+    String dummyField;
 }
